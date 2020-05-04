@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp10
 {
@@ -10,9 +6,26 @@ namespace ConsoleApp10
     {
         static void Main(string[] args)
         {
+            double l;
             Console.Write("Введите длину окружности: ");
-            double l = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Радиус окружности равен: " + l / (2 * Math.PI));
+            try
+            {
+                l = Convert.ToDouble(Console.ReadLine());
+            }
+            catch
+            {
+                Console.WriteLine("Введены некорректные данные");
+                Console.ReadKey();
+                return;
+            }
+            if (l > 0)
+            {
+                Console.WriteLine("Радиус окружности равен: " + l / (2 * Math.PI));
+            }
+            else
+            {
+                Console.WriteLine("Введены некорректные данные");
+            }
             Console.ReadKey();
         }
     }

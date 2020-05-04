@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\Пользователь\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\Пользователь\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\Пользователь\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\Пользователь\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
+C:\Projects\Практикум_2\Задание 3.1\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Projects\Практикум_2\Задание 3.1\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Projects\Практикум_2\Задание 3.1\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Projects\Практикум_2\Задание 3.1\ConsoleApp14\obj\Debug\ConsoleApp14.csprojAssemblyReference.cache
+C:\Projects\Практикум_2\Задание 3.1\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Projects\Практикум_2\Задание 3.1\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Projects\Практикум_2\Задание 3.1\ConsoleApp14\obj\Debug\ConsoleApp14.pdb

@@ -8,3 +8,13 @@ C:\Users\Пользователь\source\repos\WindowsFormsApp8\WindowsFormsApp8
 C:\Users\Пользователь\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
 C:\Users\Пользователь\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
 C:\Users\Пользователь\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Projects\Практикум_1\Задание 2.2\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Projects\Практикум_1\Задание 2.2\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Projects\Практикум_1\Задание 2.2\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Projects\Практикум_1\Задание 2.2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Projects\Практикум_1\Задание 2.2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Projects\Практикум_1\Задание 2.2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Projects\Практикум_1\Задание 2.2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Projects\Практикум_1\Задание 2.2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Projects\Практикум_1\Задание 2.2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Projects\Практикум_1\Задание 2.2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb

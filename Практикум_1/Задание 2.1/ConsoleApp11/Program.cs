@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp11
 {
@@ -10,8 +6,20 @@ namespace ConsoleApp11
     {
         static void Main(string[] args)
         {
+            int number;
             Console.Write("Введите трехзначное число: ");
-            int number = Convert.ToInt32(Console.ReadLine());
+            try
+            {
+                number = Convert.ToInt32(Console.ReadLine());
+            }
+            catch
+            {
+                Console.WriteLine("Введены некорректные данные");
+                Console.ReadKey();
+                return;
+            }
+            if (number < 0)
+                number *= -1;
             string strNumber = number.ToString();
             if (strNumber.Length == 3)
             {

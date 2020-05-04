@@ -1,0 +1,20 @@
+C:\Users\Пользователь\source\repos\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Users\Пользователь\source\repos\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Users\Пользователь\source\repos\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Users\Пользователь\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Users\Пользователь\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Users\Пользователь\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+C:\Projects\Практикум_2\Задание 3.2\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Projects\Практикум_2\Задание 3.2\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Projects\Практикум_2\Задание 3.2\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Projects\Практикум_2\Задание 3.2\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojAssemblyReference.cache
+C:\Projects\Практикум_2\Задание 3.2\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Projects\Практикум_2\Задание 3.2\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Projects\Практикум_2\Задание 3.2\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.cache
+C:\Projects\Практикум_2\Задание 3.2\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\Projects\Практикум_2\Задание 3.2\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Projects\Практикум_2\Задание 3.2\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb

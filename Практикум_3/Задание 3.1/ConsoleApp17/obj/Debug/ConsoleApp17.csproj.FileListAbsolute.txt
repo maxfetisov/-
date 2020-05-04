@@ -1,0 +1,21 @@
+C:\Users\Пользователь\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\Пользователь\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\Пользователь\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\Пользователь\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\Пользователь\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
+C:\Users\Пользователь\source\repos\ConsoleApp18\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\Пользователь\source\repos\ConsoleApp18\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\Пользователь\source\repos\ConsoleApp18\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\Пользователь\source\repos\ConsoleApp18\ConsoleApp17\obj\Debug\ConsoleApp17.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ConsoleApp18\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ConsoleApp18\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\Пользователь\source\repos\ConsoleApp18\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
+C:\Projects\Практикум_3\Задание 3.1\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Projects\Практикум_3\Задание 3.1\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Projects\Практикум_3\Задание 3.1\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Projects\Практикум_3\Задание 3.1\ConsoleApp17\obj\Debug\ConsoleApp17.csprojAssemblyReference.cache
+C:\Projects\Практикум_3\Задание 3.1\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Projects\Практикум_3\Задание 3.1\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Projects\Практикум_3\Задание 3.1\ConsoleApp17\obj\Debug\ConsoleApp17.pdb

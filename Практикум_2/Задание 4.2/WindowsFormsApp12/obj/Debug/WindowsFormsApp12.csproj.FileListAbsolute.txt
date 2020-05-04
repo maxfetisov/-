@@ -1,0 +1,20 @@
+C:\Users\Пользователь\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\Пользователь\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\Пользователь\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\Пользователь\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\Пользователь\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Пользователь\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Projects\Практикум_2\Задание 4.2\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Projects\Практикум_2\Задание 4.2\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Projects\Практикум_2\Задание 4.2\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Projects\Практикум_2\Задание 4.2\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Projects\Практикум_2\Задание 4.2\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Projects\Практикум_2\Задание 4.2\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Projects\Практикум_2\Задание 4.2\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Projects\Практикум_2\Задание 4.2\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Projects\Практикум_2\Задание 4.2\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Projects\Практикум_2\Задание 4.2\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
