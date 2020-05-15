@@ -1,0 +1,7 @@
+C:\Projects\Практикум_6\Задание 4.1\Задание 3.1\bin\Debug\Задание 3.1.exe.config
+C:\Projects\Практикум_6\Задание 4.1\Задание 3.1\bin\Debug\Задание 3.1.exe
+C:\Projects\Практикум_6\Задание 4.1\Задание 3.1\bin\Debug\Задание 3.1.pdb
+C:\Projects\Практикум_6\Задание 4.1\Задание 3.1\obj\Debug\Задание 4.1.csprojAssemblyReference.cache
+C:\Projects\Практикум_6\Задание 4.1\Задание 3.1\obj\Debug\Задание 4.1.csproj.CoreCompileInputs.cache
+C:\Projects\Практикум_6\Задание 4.1\Задание 3.1\obj\Debug\Задание 3.1.exe
+C:\Projects\Практикум_6\Задание 4.1\Задание 3.1\obj\Debug\Задание 3.1.pdb
