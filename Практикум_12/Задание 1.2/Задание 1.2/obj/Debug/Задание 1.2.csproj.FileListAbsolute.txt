@@ -1,0 +1,30 @@
+C:\Users\Пользователь\source\repos\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.exe.config
+C:\Users\Пользователь\source\repos\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.exe
+C:\Users\Пользователь\source\repos\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.pdb
+C:\Users\Пользователь\source\repos\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Задание 1.2\Задание 1.2\obj\Debug\Задание_1._2.Form1.resources
+C:\Users\Пользователь\source\repos\Задание 1.2\Задание 1.2\obj\Debug\Задание_1._2.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.exe
+C:\Users\Пользователь\source\repos\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.pdb
+C:\Projects\Практикум_11\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.exe.config
+C:\Projects\Практикум_11\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.exe
+C:\Projects\Практикум_11\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.pdb
+C:\Projects\Практикум_11\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csprojAssemblyReference.cache
+C:\Projects\Практикум_11\Задание 1.2\Задание 1.2\obj\Debug\Задание_1._2.Form1.resources
+C:\Projects\Практикум_11\Задание 1.2\Задание 1.2\obj\Debug\Задание_1._2.Properties.Resources.resources
+C:\Projects\Практикум_11\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csproj.GenerateResource.cache
+C:\Projects\Практикум_11\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csproj.CoreCompileInputs.cache
+C:\Projects\Практикум_11\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.exe
+C:\Projects\Практикум_11\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.pdb
+C:\Projects\Практикум_12\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.exe.config
+C:\Projects\Практикум_12\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.exe
+C:\Projects\Практикум_12\Задание 1.2\Задание 1.2\bin\Debug\Задание 1.2.pdb
+C:\Projects\Практикум_12\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csprojAssemblyReference.cache
+C:\Projects\Практикум_12\Задание 1.2\Задание 1.2\obj\Debug\Задание_1._2.Form1.resources
+C:\Projects\Практикум_12\Задание 1.2\Задание 1.2\obj\Debug\Задание_1._2.Properties.Resources.resources
+C:\Projects\Практикум_12\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csproj.GenerateResource.cache
+C:\Projects\Практикум_12\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.csproj.CoreCompileInputs.cache
+C:\Projects\Практикум_12\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.exe
+C:\Projects\Практикум_12\Задание 1.2\Задание 1.2\obj\Debug\Задание 1.2.pdb
